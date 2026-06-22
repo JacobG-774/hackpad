@@ -1,5 +1,18 @@
-# hackpad
-cool macropad for hackclub stardance. Here are the components I used:
+# Tuxpad!
+*A 6-key macropad with an OLED display, neopixel light bar, and circuitpython firmware, meant to simplify repetitive tasks.*
+
+![rendering](https://i.imgur.com/r17VPHF.jpeg)
+[PCB demo on KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FJacobG-774%2Fhackpad%2Fblob%2Fmain%2FPCB%2Fhackpad.kicad_pcb)
+
+**Features**
+
+* Customizable macros to simplify productivity workflows, gaming, or other tasks
+* RGB Neopixel bar for awesome customizable lighting
+* OLED display for time, system information, or motivational messages
+
+**Materials Used**
+
+![schematic](https://i.imgur.com/mkDUquJ.png)
 
 * Seeed XIAO RP2040 microcontroller - 1
 * MX-style mechanical switches - 6
@@ -9,12 +22,10 @@ cool macropad for hackclub stardance. Here are the components I used:
 * M3×16mm screws - 4
 In addition to the PCB and 3d printed case of course.
 
-Here's my schematic design:
-![schematic](https://i.imgur.com/mkDUquJ.png)
-PCB:
+
+**How it Works**
+
 ![PCB](https://i.imgur.com/zED7hTH.png)
-Case:
+
 ![case](https://i.imgur.com/iEhUcLl.png)
-And finally a rendering of the assembled project I made in Tinkercad... yes tinkercad, because onshape didn't work...
-![rendering](https://i.imgur.com/r17VPHF.jpeg)
-Anyways this has been super fun and a great way to learn kicad and brush up on my cad/python skills!
+
