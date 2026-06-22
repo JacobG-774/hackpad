@@ -16,5 +16,5 @@ PCB:
 Case:
 ![case](https://i.imgur.com/iEhUcLl.png)
 And finally a rendering of the assembled project I made in Tinkercad... yes tinkercad, because onshape didn't work...
-![rendering](https://i.imgur.com/iEhUcLl.png)
+![rendering](https://i.imgur.com/r17VPHF.jpeg)
 Anyways this has been super fun and a great way to learn kicad and brush up on my cad/python skills!
