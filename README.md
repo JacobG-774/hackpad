@@ -34,7 +34,7 @@ My choice of CircuitPython without KMK for the firmware might seem counterintuit
 
 ![case](https://i.imgur.com/iEhUcLl.png)
 
-Happy to say I mostly designed my case and PCB with just the help of the Hackpad tutorial, Google, and my few brain cells. The rendering was made with the help of [ohagel](https://www.thingiverse.com/thing:738769) and [gcb](https://www.thingiverse.com/thing:421524)'s files on Thingiverse, and I used a small amount of AI and reverse engineering from [LyricSantana](https://github.com/LyricSantana/lyrics_macropad/tree/main)'s code for the firmware.
+I'm happy to say I mostly designed my case and PCB with just the help of the Hackpad tutorial, Google, and my few brain cells. The rendering was made with the help of [ohagel](https://www.thingiverse.com/thing:738769) and [gcb](https://www.thingiverse.com/thing:421524)'s files on Thingiverse, and I used a small amount of AI and reverse engineering from [LyricSantana](https://github.com/LyricSantana/lyrics_macropad/tree/main)'s code for the firmware.
 
 
 
